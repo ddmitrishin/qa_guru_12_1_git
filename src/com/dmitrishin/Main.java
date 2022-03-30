@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello, github!");
         System.out.println("Pull request");
         System.out.println("Pull request from new branch");
+        System.out.println("CONFLICT!");
     }
 }
